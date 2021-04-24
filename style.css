@@ -1,0 +1,71 @@
+body
+{
+    background-color:aqua;
+    color: rgb(0, 0, 0);
+    font-family: 'Courgette', cursive;
+}
+
+h1, h2
+{
+    font-family: 'Lobster Two', cursive;
+}
+
+h1
+{
+    font-size: 350%;
+    background-color: darkblue;
+    color: white;
+}
+
+h2
+{
+    font-size: 250%;
+}
+
+h3
+{
+    padding-left: 150px;
+}
+
+#handloom
+{
+    padding-left: 150px;
+}
+
+#handicraft
+{
+    padding-left: 150px;
+}
+
+#poster
+{
+    padding-left: 150px;
+}
+
+#trashion
+{
+    padding-left: 150px;
+}
+
+.iframes
+{
+    padding-left: 150px;
+}
+
+#nametag
+{
+    padding-left: 150px;
+}
+
+#image_logo
+{
+    width: 300px;
+    border-radius: 85px;
+    height: 200px;
+}
+
+.gallery
+{
+    width: 300px;
+    height: 200px;
+}
